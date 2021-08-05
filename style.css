@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  
+
+}
+img {
+width: 100%;
+}
+h6 { 
+  color: red;
+}
+div {
+  background-color: black;
+  color: white;
+}
